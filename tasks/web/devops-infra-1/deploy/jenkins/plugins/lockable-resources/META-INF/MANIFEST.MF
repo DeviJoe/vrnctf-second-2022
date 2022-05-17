@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.249.1
+Plugin-Dependencies: caffeine-api:2.9.2-29.v717aac953ff3,workflow-supp
+ ort:3.8,mailer:1.34,matrix-project:1.18,script-security:1.78,structs:
+ 1.23
+Implementation-Title: Lockable Resources plugin
+Long-Name: Lockable Resources plugin
+Implementation-Version: 2.15
+Group-Id: org.6wind.jenkins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT
+Specification-Title: Lockable Resources plugin
+Plugin-ScmUrl: https://github.com/jenkinsci/lockable-resources-plugin
+Plugin-Version: 2.15
+Jenkins-Version: 2.249.1
+Url: https://github.com/jenkinsci/lockable-resources-plugin
+Short-Name: lockable-resources
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Compatible-Since-Version: 2.0
+Plugin-Developers: Basil Crow:basil:me@basilcrow.com,Tobias Gruetzmach
+ er:TobiX:tobias-git@23.gs,Antonio Muñiz:amuniz:amuniz@cloudbees.com
+Plugin-Class: org.jenkins.plugins.lockableresources.LockableResources
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 2.15
+

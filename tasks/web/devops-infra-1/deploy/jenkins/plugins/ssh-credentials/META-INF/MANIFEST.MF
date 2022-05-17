@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.3
+Plugin-Dependencies: credentials:2.6.1,trilead-api:1.0.13
+Implementation-Title: SSH Credentials Plugin
+Long-Name: SSH Credentials Plugin
+Implementation-Version: 277.v95c2fec1c047
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: SSH Credentials Plugin
+Plugin-ScmUrl: https://github.com/jenkinsci/ssh-credentials-plugin
+Plugin-Version: 277.v95c2fec1c047
+Jenkins-Version: 2.289.3
+Url: https://github.com/jenkinsci/ssh-credentials-plugin
+Short-Name: ssh-credentials
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: Stephen Connolly:stephenconnolly:,Oleg Nenashev:ole
+ g_nenashev:,Matt Sicker:jvz:
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.0
+

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.3
+Plugin-Dependencies: structs:308.v852b473a2b8c
+Implementation-Title: Ant Plugin
+Long-Name: Ant Plugin
+Implementation-Version: 475.vf34069fef73c
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: The MIT license
+Specification-Title: Ant Plugin
+Plugin-ScmUrl: https://github.com/jenkinsci/ant-plugin
+Plugin-Version: 475.vf34069fef73c
+Jenkins-Version: 2.289.3
+Url: https://github.com/jenkinsci/ant-plugin
+Short-Name: ant
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: 
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.0
+

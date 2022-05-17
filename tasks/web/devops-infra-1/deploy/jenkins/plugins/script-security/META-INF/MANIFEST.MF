@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.332.1
+Plugin-Dependencies: caffeine-api:2.9.2-29.v717aac953ff3
+Implementation-Title: Script Security Plugin
+Long-Name: Script Security Plugin
+Implementation-Version: 1158.v7c1b_73a_69a_08
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: Script Security Plugin
+Plugin-ScmUrl: https://github.com/jenkinsci/script-security-plugin
+Plugin-Version: 1158.v7c1b_73a_69a_08
+Jenkins-Version: 2.332.1
+Url: https://github.com/jenkinsci/script-security-plugin
+Short-Name: script-security
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: 
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.0
+

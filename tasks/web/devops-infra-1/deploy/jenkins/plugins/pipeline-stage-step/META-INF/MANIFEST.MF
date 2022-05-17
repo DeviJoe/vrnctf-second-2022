@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.1
+Plugin-Dependencies: workflow-api:1143.v2d42f1e9dea_5,workflow-step-ap
+ i:622.vb_8e7c15b_c95a_
+Implementation-Title: Pipeline: Stage Step
+Long-Name: Pipeline: Stage Step
+Implementation-Version: 293.v200037eefcd5
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: Pipeline: Stage Step
+Plugin-ScmUrl: https://github.com/jenkinsci/pipeline-stage-step-plugin
+Plugin-Version: 293.v200037eefcd5
+Jenkins-Version: 2.289.1
+Url: https://github.com/jenkinsci/pipeline-stage-step-plugin
+Short-Name: pipeline-stage-step
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: 
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.0
+

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.249.1
+Implementation-Title: Resource Disposer Plugin
+Long-Name: Resource Disposer Plugin
+Implementation-Version: 0.19
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: Resource Disposer Plugin
+Plugin-ScmUrl: https://github.com/jenkinsci/resource-disposer-plugin
+Plugin-Version: 0.19
+Jenkins-Version: 2.249.1
+Url: https://github.com/jenkinsci/resource-disposer-plugin
+Short-Name: resource-disposer
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: Basil Crow:basil:me@basilcrow.com,Oliver Gondža:ol
+ ivergondza:ogondza@gmail.com
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.19
+

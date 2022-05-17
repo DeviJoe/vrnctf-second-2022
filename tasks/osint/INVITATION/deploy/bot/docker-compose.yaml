@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  mailbot:
+    build: .
+    restart: always
+    volumes:
+        - ./test_db.db:/app/test_db.db

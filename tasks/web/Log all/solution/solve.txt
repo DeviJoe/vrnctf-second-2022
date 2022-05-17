@@ -1,0 +1,4 @@
+Попробуйте эксплуатировать уязвимость 2021-44228.
+Несколько хороших ссылок:
+https://habr.com/ru/post/597981/
+https://github.com/KleekEthicalHacking/log4j-exploit

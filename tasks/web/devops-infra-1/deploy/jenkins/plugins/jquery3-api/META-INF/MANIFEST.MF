@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Specification-Title: JQuery3 API Plugin
+Specification-Version: 3.6
+Implementation-Title: JQuery3 API Plugin
+Implementation-Version: 3.6.0-3
+Group-Id: io.jenkins.plugins
+Short-Name: jquery3-api
+Long-Name: JQuery3 API Plugin
+Url: https://github.com/jenkinsci/jquery3-api-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 3.6.0-3
+Hudson-Version: 2.289.1
+Jenkins-Version: 2.289.1
+Plugin-Developers: Ullrich Hafner:uhafner:ullrich.hafner@gmail.com
+Support-Dynamic-Loading: true
+Plugin-License-Name: MIT license
+Plugin-ScmUrl: https://github.com/jenkinsci/jquery3-api-plugin
+

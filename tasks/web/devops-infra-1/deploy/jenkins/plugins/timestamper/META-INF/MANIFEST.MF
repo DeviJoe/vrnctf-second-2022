@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.277.4
+Plugin-Dependencies: workflow-api:2.47,workflow-step-api:2.24,antisamy
+ -markup-formatter:2.7
+Implementation-Title: timestamper
+Long-Name: Timestamper
+Implementation-Version: 1.17
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: The MIT License (MIT)
+Specification-Title: Adds timestamps to the Console Output
+Plugin-ScmUrl: https://github.com/jenkinsci/timestamper-plugin
+Plugin-Version: 1.17
+Jenkins-Version: 2.277.4
+Url: https://github.com/jenkinsci/timestamper-plugin
+Short-Name: timestamper
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: Basil Crow:basil:,Steven Brown:stevengbrown:StevenG
+ Brown@gmail.com,Jesse Glick:jglick:
+Extension-Name: timestamper
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.1
+

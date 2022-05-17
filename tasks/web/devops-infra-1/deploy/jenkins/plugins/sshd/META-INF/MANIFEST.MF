@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.1
+Implementation-Title: SSH server
+Long-Name: SSH server
+Implementation-Version: 3.228.v4c9f9e652c86
+Group-Id: org.jenkins-ci.modules
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: SSH server
+Plugin-ScmUrl: https://github.com/jenkinsci/sshd-plugin
+Plugin-Version: 3.228.v4c9f9e652c86
+Jenkins-Version: 2.289.1
+Short-Name: sshd
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: 
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.0
+

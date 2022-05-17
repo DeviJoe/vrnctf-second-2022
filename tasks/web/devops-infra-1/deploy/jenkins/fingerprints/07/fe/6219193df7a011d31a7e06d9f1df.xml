@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-05-11 23:47:53.979 UTC</timestamp>
+  <md5sum>07fe6219193df7a011d31a7e06d9f1df</md5sum>
+  <fileName>Credential id=flag name=flag</fileName>
+  <usages>
+    <entry>
+      <string>test</string>
+      <ranges>37-42</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

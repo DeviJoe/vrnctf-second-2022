@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.332.1
+Plugin-Dependencies: workflow-cps:2686.v7c37e0578401,workflow-job:1174
+ .vdcb_d054cf74a_,credentials-binding:1.27.1,credentials:1087.v16065d2
+ 68466,pipeline-stage-step:291.vf0a8a7aeeb50,pipeline-model-api:2.2077
+ .vc78ec45162f1
+Implementation-Title: Pipeline: Declarative Extension Points API
+Long-Name: Pipeline: Declarative Extension Points API
+Implementation-Version: 2.2077.vc78ec45162f1
+Group-Id: org.jenkinsci.plugins
+Minimum-Java-Version: 1.8
+Support-Dynamic-Loading: true
+Plugin-License-Name: MIT
+Specification-Title: Pipeline: Declarative Extension Points API
+Plugin-ScmUrl: https://github.com/jenkinsci/pipeline-model-definition-
+ plugin
+Plugin-Version: 2.2077.vc78ec45162f1
+Jenkins-Version: 2.332.1
+Url: https://github.com/jenkinsci/pipeline-model-definition-plugin
+Short-Name: pipeline-model-extensions
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Compatible-Since-Version: 1.2-beta-4
+Plugin-Developers: Andrew Bayer:abayer:
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.0
+

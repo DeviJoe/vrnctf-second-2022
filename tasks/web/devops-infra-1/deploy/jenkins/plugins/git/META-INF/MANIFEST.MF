@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.1
+Plugin-Dependencies: configuration-as-code:1.55.1;resolution:=optional
+ ,workflow-scm-step:2.13,workflow-step-api:622.vb_8e7c15b_c95a_,creden
+ tials-binding:1.27.1,credentials:2.6.1,git-client:3.11.0,mailer:408.v
+ d726a_1130320,matrix-project:1.20;resolution:=optional,parameterized-
+ trigger:2.39;resolution:=optional,promoted-builds:3.10.1;resolution:=
+ optional,scm-api:595.vd5a_df5eb_0e39,script-security:1131.v8b_b_5eda_
+ c328e,ssh-credentials:1.19,structs:308.v852b473a2b8c,token-macro:267.
+ vcdaea6462991;resolution:=optional
+Implementation-Title: Git plugin
+Long-Name: Git plugin
+Implementation-Version: 4.11.1
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: The MIT License (MIT)
+Specification-Title: Git plugin
+Plugin-ScmUrl: https://github.com/jenkinsci/git-plugin
+Plugin-Version: 4.11.1
+Jenkins-Version: 2.289.1
+Url: https://github.com/jenkinsci/git-plugin/blob/master/README.adoc
+Short-Name: git
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: Mark Waite:markewaite:mark.earl.waite@gmail.com,Rob
+ ert Sandell:rsandell:rsandell@cloudbees.com,M Ramon Leon:mramonleon:r
+ leon@cloudbees.com,Olivier Lamy:olamy:olamy@apache.org
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 4.11
+

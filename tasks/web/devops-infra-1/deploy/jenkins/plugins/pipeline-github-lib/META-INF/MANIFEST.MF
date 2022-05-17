@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.3
+Plugin-Dependencies: workflow-cps-global-lib:2.21,git:4.10.3
+Implementation-Title: pipeline-github-lib
+Long-Name: Pipeline: GitHub Groovy Libraries
+Implementation-Version: 36.v4c01db_ca_ed16
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: Allows Pipeline Groovy libraries to be loaded on 
+ the fly from GitHub.
+Plugin-ScmUrl: https://github.com/jenkinsci/pipeline-github-lib-plugin
+Plugin-Version: 36.v4c01db_ca_ed16
+Jenkins-Version: 2.289.3
+Url: https://github.com/jenkinsci/pipeline-github-lib-plugin
+Short-Name: pipeline-github-lib
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: 
+Extension-Name: pipeline-github-lib
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.1
+

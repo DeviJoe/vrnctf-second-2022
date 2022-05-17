@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Specification-Title: Jenkins GIT server Plugin
+Specification-Version: 1.11
+Implementation-Title: Jenkins GIT server Plugin
+Implementation-Version: 1.11
+Group-Id: org.jenkins-ci.plugins
+Short-Name: git-server
+Long-Name: Jenkins GIT server Plugin
+Url: https://github.com/jenkinsci/git-server-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.11
+Hudson-Version: 2.289.3
+Jenkins-Version: 2.289.3
+Plugin-Dependencies: sshd:3.1.0,git-client:3.10.0
+Plugin-Developers: 
+Plugin-License-Name: The MIT license
+Plugin-License-Url: https://www.opensource.org/licenses/mit-license.php
+Plugin-ScmUrl: https://github.com/jenkinsci/git-server-plugin
+

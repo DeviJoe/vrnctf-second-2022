@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.332.1
+Plugin-Dependencies: workflow-api:1143.v2d42f1e9dea_5,workflow-basic-s
+ teps:941.vdfe1b_a_132c64,workflow-cps-global-lib:570.v21311f4951f8,wo
+ rkflow-cps:2686.v7c37e0578401,workflow-durable-task-step:1128.v8c259d
+ 125340,workflow-multibranch:711.vdfef37cda_816,workflow-scm-step:2.13
+ ,workflow-support:818.v4eb_969241b_c7,credentials-binding:1.27.1,cred
+ entials:1087.v16065d268466,git-client:3.11.0,mailer:408.vd726a_113032
+ 0,pipeline-input-step:447.v95e5a_6e3502a_,pipeline-stage-step:291.vf0
+ a8a7aeeb50,scm-api:602.v6a_81757a_31d2,structs:308.v852b473a2b8c,pipe
+ line-model-api:2.2077.vc78ec45162f1,pipeline-model-extensions:2.2077.
+ vc78ec45162f1,pipeline-stage-tags-metadata:2.2077.vc78ec45162f1
+Implementation-Title: Pipeline: Declarative
+Long-Name: Pipeline: Declarative
+Implementation-Version: 2.2077.vc78ec45162f1
+Group-Id: org.jenkinsci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT
+Specification-Title: Pipeline: Declarative
+Plugin-ScmUrl: https://github.com/jenkinsci/pipeline-model-definition-
+ plugin
+Plugin-Version: 2.2077.vc78ec45162f1
+Jenkins-Version: 2.332.1
+Url: https://github.com/jenkinsci/pipeline-model-definition-plugin
+Short-Name: pipeline-model-definition
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Compatible-Since-Version: 1.6.0
+Plugin-Developers: Andrew Bayer:abayer:
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.2
+Specification-Version: 0.0
+

